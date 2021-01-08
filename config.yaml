@@ -1,7 +1,7 @@
-baseURL: https://ajaya-loya.github.io
+baseURL: https://priyanka.github.io
 
 languageCode: en-us
-title: "AJ's Blog"
+title: ">_PRIYANKA PATEL.."
 theme: "toha"
 
 # Manage languages
@@ -25,7 +25,7 @@ markup:
     ordered: false
 
 # Enable Google Analytics
-googleAnalytics: UA-XXX-xx
+googleAnalytics: UA-XXXX-2
 
 # Enable global emoji support
 enableEmoji: true
@@ -38,21 +38,18 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   # It will default to the theme logos if not provided.
-  logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+ 
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/akloya/ajaya-loya.github.io
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  enableTOC: false
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
